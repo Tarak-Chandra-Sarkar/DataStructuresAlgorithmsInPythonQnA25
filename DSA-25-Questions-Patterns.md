@@ -1,12 +1,12 @@
 # ✅ Arrays / Two Pointers / Hashing
 
-### [3Sum — Medium](https://leetcode.com/problems/3sum)  
+### [3Sum — Medium](ArraysTwoPointersHashing\threeSum\threeSum.md)  
 Use sorting + two pointers to find triplets that sum to zero.
 
-### [Container With Most Water — Medium](https://leetcode.com/problems/container-with-most-water)  
+### [Container With Most Water — Medium](ArraysTwoPointersHashing\maxWaterContainer\maxWaterContainer.md)  
 Two pointers from both ends, greedily track max area.
 
-### [Longest Consecutive Sequence — Hard](https://leetcode.com/problems/longest-consecutive-sequence)  
+### [Longest Consecutive Sequence — Hard](ArraysTwoPointersHashing\longestConsecutiveSequence\longestConsecutiveSequence.md)  
 Use a HashSet to check sequence starts efficiently.
 
 ---
