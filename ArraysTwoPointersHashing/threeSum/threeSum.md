@@ -31,6 +31,6 @@ Notice that the order of the output and the order of the triplets does not matte
 - <code>3 <= nums.length <= 3000</code>
 - <code>-105 <= nums[i] <= 105</code>
 
-### [Leetcode Problem Link](https://leetcode.com/problems/3sum) {:target="_blank"}
+### [Leetcode Problem Link](https://leetcode.com/problems/3sum)
 
 ### [Solution in Python Link](threeSum.py)
