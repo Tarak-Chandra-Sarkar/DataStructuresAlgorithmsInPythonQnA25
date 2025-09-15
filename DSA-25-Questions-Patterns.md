@@ -13,7 +13,7 @@ Use a HashSet to check sequence starts efficiently.
 
 # 🔤 Strings / Sliding Window / Hashing
 
-### [Longest Substring Without Repeating Characters — Medium](StringsSlidingWindowsHashing\longestSubstringWithoutRepeatingChars\longestSubstringWithoutRepeatingChars.md)  
+### [Longest Substring Without Repeating Characters — Medium](StringsSlidingWindowsHashing/longestSubstringWithoutRepeatingChars/longestSubstringWithoutRepeatingChars.md)  
 Sliding window + HashSet/Map.
 
 ### [Minimum Window Substring — Hard](https://leetcode.com/problems/minimum-window-substring)  
