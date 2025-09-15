@@ -11,9 +11,9 @@ Use a HashSet to check sequence starts efficiently.
 
 ---
 
-# 🔤 Strings / Hashing / Sliding Window
+# 🔤 Strings / Sliding Window / Hashing
 
-### [Longest Substring Without Repeating Characters — Medium](https://leetcode.com/problems/longest-substring-without-repeating-characters)  
+### [Longest Substring Without Repeating Characters — Medium](StringsSlidingWindowsHashing\longestSubstringWithoutRepeatingChars\longestSubstringWithoutRepeatingChars.md)  
 Sliding window + HashSet/Map.
 
 ### [Minimum Window Substring — Hard](https://leetcode.com/problems/minimum-window-substring)  

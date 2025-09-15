@@ -26,6 +26,6 @@
 - <code>0 <= nums.length <= 105</code>
 - <code>-109 <= nums[i] <= 109</code>
 
-### [Leetcode Problem Link](https://leetcode.com/problems/container-with-most-water)
+### [Leetcode Problem Link](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 
 ### [Solution in Python Link](longestConsecutiveSequence.py)
