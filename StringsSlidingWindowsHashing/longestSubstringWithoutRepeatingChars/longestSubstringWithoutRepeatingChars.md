@@ -25,6 +25,6 @@ Notice that the answer must be a substring, <code>"pwke"</code> is a subsequence
 - <code>0 <= s.length <= 5 * 104</code>
 - <code>s</code> consists of English letters, digits, symbols and spaces
 
-### [Leetcode Problem Link](https://leetcode.com/problems/container-with-most-water)
+### [Leetcode Problem Link](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 
 ### [Solution in Python Link](longestSubstringWithoutRepeatingChars.py)
