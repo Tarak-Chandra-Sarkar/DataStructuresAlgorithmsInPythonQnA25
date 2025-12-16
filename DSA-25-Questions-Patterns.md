@@ -21,22 +21,26 @@ Sliding window + two pointers + character frequency count.
 
 ---
 
-# 🔁 Dynamic Programming
+# 📚 Stack
 
-### [Climbing Stairs — Easy](https://leetcode.com/problems/climbing-stairs)  
-Classic DP or Fibonacci optimization.
+### [Valid Parentheses — Easy](https://leetcode.com/problems/valid-parentheses)  
+Stack to match open/close brackets.
 
-### [House Robber — Medium](https://leetcode.com/problems/house-robber)  
-DP over choices: rob or skip.
+### [Daily Temperatures — Medium](https://leetcode.com/problems/daily-temperatures)  
+Monotonic stack pattern.
 
-### [Longest Palindromic Substring — Medium](https://leetcode.com/problems/longest-palindromic-substring)  
-Expand around center or DP table.
+---
 
-### [Coin Change — Medium](https://leetcode.com/problems/coin-change)  
-Unbounded knapsack DP.
+# 🔗 Linked List
 
-### [Partition Equal Subset Sum — Medium](https://leetcode.com/problems/partition-equal-subset-sum)  
-Subset sum DP (1D array can optimize).
+### [Reverse Linked List — Easy](https://leetcode.com/problems/reverse-linked-list)  
+Iterative or recursive reversal.
+
+### [Linked List Cycle — Easy](https://leetcode.com/problems/linked-list-cycle)  
+Floyd’s Tortoise and Hare.
+
+### [Merge Two Sorted Lists — Easy](https://leetcode.com/problems/merge-two-sorted-lists)  
+Merge like merge sort.
 
 ---
 
@@ -66,29 +70,6 @@ DFS with backtracking on grid.
 
 ---
 
-# 🔗 Linked List
-
-### [Reverse Linked List — Easy](https://leetcode.com/problems/reverse-linked-list)  
-Iterative or recursive reversal.
-
-### [Linked List Cycle — Easy](https://leetcode.com/problems/linked-list-cycle)  
-Floyd’s Tortoise and Hare.
-
-### [Merge Two Sorted Lists — Easy](https://leetcode.com/problems/merge-two-sorted-lists)  
-Merge like merge sort.
-
----
-
-# 📚 Stack
-
-### [Valid Parentheses — Easy](https://leetcode.com/problems/valid-parentheses)  
-Stack to match open/close brackets.
-
-### [Daily Temperatures — Medium](https://leetcode.com/problems/daily-temperatures)  
-Monotonic stack pattern.
-
----
-
 # 🌐 Graphs / BFS / DFS / Union-Find
 
 ### [Number of Islands — Medium](https://leetcode.com/problems/number-of-islands)  
@@ -102,3 +83,22 @@ Topological sort via DFS or Kahn’s algo.
 
 ### [Redundant Connection — Medium](https://leetcode.com/problems/redundant-connection)  
 Union-Find to detect cycle.
+
+---
+
+# 🔁 Dynamic Programming
+
+### [Climbing Stairs — Easy](https://leetcode.com/problems/climbing-stairs)  
+Classic DP or Fibonacci optimization.
+
+### [House Robber — Medium](https://leetcode.com/problems/house-robber)  
+DP over choices: rob or skip.
+
+### [Longest Palindromic Substring — Medium](https://leetcode.com/problems/longest-palindromic-substring)  
+Expand around center or DP table.
+
+### [Coin Change — Medium](https://leetcode.com/problems/coin-change)  
+Unbounded knapsack DP.
+
+### [Partition Equal Subset Sum — Medium](https://leetcode.com/problems/partition-equal-subset-sum)  
+Subset sum DP (1D array can optimize).
