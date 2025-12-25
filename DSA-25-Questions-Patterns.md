@@ -26,7 +26,7 @@ Sliding window + two pointers + character frequency count.
 ### [Valid Parentheses — Easy](Stack/validParentheses/validParentheses.md)  
 Stack to match open/close brackets.
 
-### [Daily Temperatures — Medium](https://leetcode.com/problems/daily-temperatures)  
+### [Daily Temperatures — Medium](Stack/dailyTemperatures/dailyTemperatures.md)  
 Monotonic stack pattern.
 
 ---
